@@ -13,5 +13,5 @@ and visualizations exploring the relationship between ratings, votes, and genres
 
 ## How to Run
 1. Clone this repo
-2. Open `final_project.Rmd` in RStudio
+2. Open `English Movie 2021 analysis.R` in RStudio
 3. Knit to HTML to see full analysis
