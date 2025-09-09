@@ -1,6 +1,6 @@
 # IMDb Movie Analysis (2021 Movies)
 
-This project analyzes IMDb’s processed dataset for English-language feature films released in 2021. It includes data cleaning, and multiple visualizations (scatterplots and bar charts).
+This project analyzes IMDb’s processed dataset for Feature films released in 2021. It includes data cleaning, and multiple visualizations (scatterplots and bar charts).
 
 ## Tools Used
 - R
