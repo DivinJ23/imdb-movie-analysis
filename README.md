@@ -11,5 +11,5 @@ This project analyzes IMDb’s processed dataset for English-language feature fi
 
 ## How to Run
 1. Clone this repo
-2. Open `English Movie 2021 analysis.R` in RStudio
+2. Open `Updated movie 2021 analysis.R` in RStudio
 3. Knit to HTML to see full analysis
