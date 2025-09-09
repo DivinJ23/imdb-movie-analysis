@@ -1,8 +1,6 @@
-# IMDb Movie Analysis (2021 English Movies)
+# IMDb Movie Analysis (2021 Movies)
 
-This project analyzes IMDb ratings using a dataset of movies.
-It includes data cleaning, feature engineering (rating per 1000 votes),
-and visualizations exploring the relationship between ratings, votes, and genres.
+This project analyzes IMDb’s processed dataset for English-language feature films released in 2021. It includes data cleaning, and multiple visualizations (scatterplots, bar charts, density plots). I adapted the project scope away from IMDb scraping to focus on reproducible analysis using a cleaned dataset.
 
 ## Tools Used
 - R
